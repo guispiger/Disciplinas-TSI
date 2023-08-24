@@ -7,10 +7,10 @@
 
 
 5 RF usuários prestadores de serviço da empresa.
-- Manter tipos de serviço oferecidos.
-- Gerenciar meios de pagamento aceitos.
-- Gerenciar horário de atividade.
-- Manter veículos.
+- Cadastrar-se para prestar um serviço.
+- Visualizar saldo financeiro.
+- Denunciar má conduta de um passageiro.
+- Adicionar/Remover um veículo.
 - Gerenciar região de atendimento.
 
 5 RF administração do sistema.
