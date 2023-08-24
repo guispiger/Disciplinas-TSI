@@ -7,6 +7,7 @@
 | Who?   | O usuário cliente da empresa                        |
 | When?  | Quando o usuário tiver necessidade de um transporte |
 | Where? | Na plataforma da empresa                            |
+
 **RF1 Descrição**
 Quando um usuário cliente da empresa tiver necessidade de um transporte, para dar início a um transporte ele faz uma solicitação através da plataforma da empresa.
 
@@ -18,6 +19,7 @@ Quando um usuário cliente da empresa tiver necessidade de um transporte, para d
 | Who?   | O usuário cliente da empresa                                               |
 | When?  | Antes de realizar um serviço que exija pagamento com cartão de crédito     |
 | Where? | Na plataforma da empresa                                                   |
+
 **RF2 Descrição**
 Para poder realizar pagamentos com cartão de crédito através da plataforma, o usuário cliente deve cadastrar um cartão de crédito. Esse cadastro deve ser feito na plataforma da empresa, realizar um serviço que exija pagamento com cartão de crédito.
 
@@ -29,6 +31,7 @@ Para poder realizar pagamentos com cartão de crédito através da plataforma, o
 | Who?   | O usuário cliente da empresa                             |
 | When?  | Antes de utilizar os créditos                            |
 | Where? | Na plataforma da empresa                                 |
+
 **RF3 Descrição**
 Para usar créditos como forma de pagamento em transportes futuros o usuário cliente da empresa deve comprar créditos na plataforma da empresa antes de utilizá-los.
 
@@ -40,6 +43,7 @@ Para usar créditos como forma de pagamento em transportes futuros o usuário cl
 | Who?   | O usuário cliente da empresa                          |
 | When?  | Ao presenciar alguma atitude suspeita                 |
 | Where? | Na plataforma da empresa                              |
+
 **RF4 Descrição**
 Ao presenciar alguma atitude suspeita o usuário cliente da empresa pode denunciar uma má conduta de um prestador de serviço através da plataforma da empresa para relatar descumprimentos de regras da plataforma.
 
@@ -51,5 +55,6 @@ Ao presenciar alguma atitude suspeita o usuário cliente da empresa pode denunci
 | Who?   | O usuário cliente da empresa                                  |
 | When?  | Após finalizado um serviço                                    |
 | Where? | Na plataforma da empresa                                      |
+
 **RF5 Descrição**
 Após finalizado um serviço contratado pelo usuário cliente este pode avaliar o prestador do serviço, na plataforma da empresa, para fazer considerações sobre o prestador de serviço contratado.
