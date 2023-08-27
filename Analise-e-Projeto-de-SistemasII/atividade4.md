@@ -14,7 +14,7 @@
 + RN2 - O Prestador de serviço deve efetuar um cadastro para oferecer um serviço.
 	- RF006 - Cadastrar-se para prestar um serviço.
 	- RF009 - Adicionar/Remover um veículo.
-	- RF010 - erenciar região de atendimento.
+	- RF010 - Gerenciar região de atendimento.
 + RN3 - O prestador de serviço deve ser habilitado para conduzir o tipo de veículo ofertado.
 	- RF006 - Cadastrar-se para prestar um serviço.
 + RN4 - O valor do serviço é calculado com base na distância, horário e tipo de serviço ofertado.
