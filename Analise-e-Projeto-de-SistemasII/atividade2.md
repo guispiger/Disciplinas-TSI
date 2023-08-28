@@ -23,10 +23,12 @@
 - RNF001 - O FrontEnd deve ser desenvolvido com a linguagem JavaScript e o framework ReactNative.
 - RNF002 - O BackEnd deve ser desenvolvido na linguagem Java.
 - RNF003 - As informações sobre os logradouros(nome da rua, número, bairro) serão obtidos da API do Google Maps.
-- RNF004 - A determinação das rotas será feita usando a Directions na API Maps JavaScript.
+- RNF004 - A determinação das rotas será feita usando a API Directions Maps do Google.
 - RNF005 - O banco de dados deve criptografar os dados com o algoritimo AES256
 - RNF006 - Será usado o banco de dados relacional PostgreSQL.
 - RNF007 - As informações sobre a situação da CNH do prestador de serviço serão obtidas da API WSDenatran.
+- RNF008 - A plataforma deverá estar disponível para os usuários através das lojas de aplicativos para sistema operacional
+mobile android.
 
 ## 5 Regras de negócio.
 - RN001 - O cliente deve efetuar um cadastro para solicitar um transporte
