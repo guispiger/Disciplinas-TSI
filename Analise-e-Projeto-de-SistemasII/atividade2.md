@@ -8,8 +8,8 @@
 ## 5 Requisitos Funcionais usuários prestadores de serviço da empresa.
 - RF006 - Cadastrar-se para prestar um serviço.
 - RF007 - Visualizar saldo financeiro.
-- RF008 - Denunciar má conduta de um passageiro.
-- RF009 - Adicionar/Remover um veículo.
+- RF008 - Denunciar má conduta de um usuário cliente.
+- RF009 - Cadastrar um veículo.
 - RF010 - Gerenciar região de atendimento.
 
 ## 5 Requisitos Funcionais administração do sistema.
