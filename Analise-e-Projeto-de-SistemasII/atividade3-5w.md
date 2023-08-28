@@ -124,54 +124,59 @@ O usuário prestador de serviço irá gerenciar a região de atendimento para de
 ## RF011 - Remover clientes.
 | **5W** | **Resposta**                                        |
 | ------ | --------------------------------------------------- |
-| What?  | |
-| Why?   | |
-| Who?   | |
-| When?  | |
-| Where? | |
+| What?  | Remover os clientes do sistema.|
+| Why?   | Para apagar dados de um cliente do sistema.|
+| Who?   | Usuários com permissões de administração.|
+| When?  | Quando do banimento da plataforma ou por exigência legal.|
+| Where? | Na plataforma da empresa.|
 
 **RF011 Descrição**
+O usuário com permissões de administração pode remover clientes do sistema, com o intuito de apagar dados de um cliente, quando determinado por banimento ou por exigência legal, através de uma função na plataforma da empresa.
 
 ## RF012 - Remover prestadores de serviço.
 | **5W** | **Resposta**                                        |
 | ------ | --------------------------------------------------- |
-| What?  | |
-| Why?   | |
-| Who?   | |
-| When?  | |
-| Where? | |
+| What?  | Remover prestador de serviço.|
+| Why?   | Para remover dados de um prestador de serviço do sistema.|
+| Who?   | Usuários com permissões de administração.|
+| When?  | Pela violação das políticas da empresa ou por exigência legal.|
+| Where? | Na plataforma da empresa.|
 
 **RF012 Descrição**
+Permite que usuários com permissões de administração, removam os rdados de um prestador de serviço do sistema. Essa ação é efetuada na plataforma da empresa e pode ser em decorrência de violação das políticas da empresa ou por exigência legal.
 
 ## RF013 - Gerar relatórios de serviços prestados em um determinado período.
 | **5W** | **Resposta**                                        |
 | ------ | --------------------------------------------------- |
-| What?  | |
-| Why?   | |
-| Who?   | |
-| When?  | |
-| Where? | |
+| What?  | Gerar relatórios de serviços prestados em um determinado período.|
+| Why?   | Para analisar o desempenho dos serviços prestados em um determinado tempo.|
+| Who?   | Por membros da equipe responsável pela gestão de serviços.|
+| When?  | Conforme o necessário.|
+| Where? | Na plataforma da empresa.|
 
 **RF013 Descrição**
+Os membros da equipe responsável pela gestão, podem, conforme a necessidade, na própria plataforma da empresa gerar relatórios de serviços prestados em um determinado período, para analisar o desempenho dos serviços prestados em um determinado tempo.
 
 ## RF014 - Gerenciar o valor base de cada tipo de serviço e horário.
 | **5W** | **Resposta**                                        |
 | ------ | --------------------------------------------------- |
-| What?  | |
-| Why?   | |
-| Who?   | |
-| When?  | |
-| Where? | |
+| What?  | Gerenciar o valor base de cada tipo de serviço e horário.|
+| Why?   | Para ajustar, regular os valores bases de cada tipo de serviço.|
+| Who?   | Por usuários da parte administrativa da empresa.|
+| When?  | Conforme a necessidade.|
+| Where? | Na plataforma da empresa.|
 
 **RF014 Descrição**
+Na plataforma da empresa, os usuários da parte administrativa, podem gerenciar o valor base de cada tipo de serviço e horário, para ajustar, regular os valores de cada serviço e horário, conforme a necessidade.
 
 ## RF015 - Gerenciar solicitações de erros e dúvidas dos usuários.
 | **5W** | **Resposta**                                        |
 | ------ | --------------------------------------------------- |
-| What?  | |
-| Why?   | |
-| Who?   | |
-| When?  | |
-| Where? | |
+| What?  | Gerenciar solicitações de erros e dúvidas dos usuários.|
+| Why?   | Para oferecer suporte para os usuários.|
+| Who?   | Equipe de suporte da empresa.|
+| When?  | Assim que forem recebidas.|
+| Where? | Na plataforma da empresa.|
 
 **RF015 Descrição**
+A equipe de suporte da empresa, por meio da plataforma da empresa, poderá gerenciar solicitações de erros e dúvidas dos usuários, conforme estas forem recebidas a fim de oferecer suporte para os usuários.
