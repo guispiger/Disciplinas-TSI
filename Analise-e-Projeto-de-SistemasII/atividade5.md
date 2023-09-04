@@ -30,7 +30,7 @@ HISTÓRIAS DE USUÁRIOS:
     | Why?   | Para obter descontos em serviços contratados, mediante pagamento de mensalidade.|
     | Who?   | O usuário cliente.|
     | When?  | Quando desejar aderir ao clube de benefícios. |
-    | Where? | No aplicativo ou página da web. |
+    | Where? | No aplicativo ou página da web, na página principal. |
         Descrição: No aplicativo ou página da web, o usuário cliente poderá aderir ao clube de beneficios para obter descontos em serviços contratados, mediante pagamento de mensalidade, quando ele desejar aderir ao clube de benefícios.
 
     #### RN - Oferta de clube de benefícios
