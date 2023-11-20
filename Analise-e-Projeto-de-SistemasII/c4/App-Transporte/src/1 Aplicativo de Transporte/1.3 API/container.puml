@@ -1,0 +1,24 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+Container(app, "Aplicativo Mobile Android","React-Native",  "Permite que os usuários finais (Clientes e Prestadores de Serviço), acessem  as funções da plataforma.")
+Container(web, "Pagina web","React", "Página de acesso para a adminsitração do sistema pela empresa.")
+Container(db, "Banco de dados Aplicação","Postgres", "Armazena os dados relativos a aplicação")
+Container(dbLogs, "Banco de dados Logs", "Postgres", "Armazena dados de auditoria e relacionados à aspectos técnicos de desenvolvimento da aplicação.")
+
+Container_Boundary(api, "API Aplicação"){
+    Component(sign, "Sign In Controller", "Recebe e aprova requeisicoes de acesso")
+    Component(viagems, "Controle de viagems", "Controla as regras de viagens")
+    Component(envio, "Envio dados", "devolve dados requeisitados")
+    Component(recebe, "Recebe dados", "Recebe dados")
+    Component(salva, "Conexão DB", " Conecta com o banco de dados")
+
+    Rel(app, sign, "Login")
+    Rel(web, sign, "Login")
+    Rel(salva, db, "Salva e recebe dados")
+    Rel(salva, dbLogs, "Salva e recebe dados")
+}
+
+@enduml
